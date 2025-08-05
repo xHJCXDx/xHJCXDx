@@ -1,20 +1,20 @@
 # xHJCXDx  
 **Programming Technician · Backend Developer**  
 
-I am a backend developer with technical training in programming. I specialize in building robust, scalable, and data-driven solutions. I work with modern technologies, focusing on code quality, best practices, and technical collaboration.  
+I am a backend developer with technical training in programming. 
 
 ---
 
-## 🔧 Technical Stack  
+## Technical Stack  
 
-**Languages:** Java · Python · JavaScript · SQL  
-**Frameworks:** Spring Boot · React · Express  
-**Databases:** MySQL · SQLite  
-**Tools:** Git · Docker · Linux · Android Studio · VS Code  
+**Languages:** Java · Python · JavaScript · SQL
+**Frameworks:** Spring Boot · React · Express
+**Databases:** MySQL · SQLite
+**Tools:** Git · Docker · Linux · VS Code
 
 ---
 
-## 🧠 Currently Learning  
+## Currently Learning  
 
 - Hexagonal architectures and DDD  
 - REST API security (OAuth2, JWT)  
@@ -29,7 +29,7 @@ I am a backend developer with technical training in programming. I specialize in
 
 ---
 
-## 📊 Stats  
+## Stats  
 
 <!-- GitHub Trophies -->  
 <!--
@@ -53,7 +53,7 @@ I am a backend developer with technical training in programming. I specialize in
 
 ---
 
-## 📬 Contact  
+## Contact  
 
 - GitHub: [github.com/xHJCXDx](https://github.com/xHJCXDx)  
 - Daily.dev: [app.daily.dev/xhjcxdx](https://app.daily.dev/xhjcxdx)  
