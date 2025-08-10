@@ -1,7 +1,8 @@
 # xHJCXDx  
-**Programming Technician · Backend Developer**  
 
-I am a backend developer with technical training in programming. 
+Contributing my bit to this world full of challenges. 
+
+**Backend programmer**
 
 ---
 
@@ -10,7 +11,6 @@ I am a backend developer with technical training in programming.
 **Languages:** Java · Python · JavaScript · SQL
 **Frameworks:** Spring Boot · React · Express
 **Databases:** MySQL · SQLite
-**Tools:** Git · Docker · Linux · VS Code
 
 ---
 
@@ -22,7 +22,7 @@ I am a backend developer with technical training in programming.
 
 ---
 
-## 📂 Highlighted Projects  
+## 📂 Public Projects  
 
 - **[system-physics](https://github.com/xHJCXDx/CPhysics)**  
   System for performing physics calculations.  
