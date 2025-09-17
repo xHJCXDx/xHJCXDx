@@ -8,9 +8,9 @@ Contributing my bit to this world full of challenges.
 
 ## Technical Stack  
 
-**Languages:** Java · Python · JavaScript · SQL
-**Frameworks:** Spring Boot · React · Express
-**Databases:** MySQL · SQLite
+**FRONTED:** HTML · CSS · JavaScript
+**BACKEND:** Java · Python · GO · MQL · SQL · TypeScript
+**Frameworks:** React · React Native · Tailwind
 
 ---
 
